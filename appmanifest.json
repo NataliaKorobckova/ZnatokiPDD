@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Знатоки Дорожного Движения",
-	"short_name": "Знатоки Дорожного Движения",
+	"name": "Викторина Светофор",
+	"short_name": "Викторина Светофор",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
